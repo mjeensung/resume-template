@@ -1,19 +1,18 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Lemon Cloud
+  position: Data Scientist
+  duration: Mar, 2018 &mdash; Feb, 2019
+  summary: Develop backend service and analyze web data.
+           <a href="https://lemoncloud.io/">Lemon Cloud</a> is a start-up company that provides E-Commerce Platforms.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: GE Ultrasound Korea
+  position: Software Engineer
+  duration:  Jan, 2015 &mdash; Feb, 2018
+  summary:  Design User Interfaces in Ultrasound Imaging Systems with Visual C++/MFC.
+            <a href="https://www.gehealthcare.co.kr/"> GE Ultrasound Korea </a> is a Healthcare corporation that develops and manufactures ultrasound imaging systems to the global Healthcare market. 
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- compant: Kona I
+  position: Software Team Intern
+  duration: Jan, 2014 &mdash; Aug, 2014
+  summary:  Create a validation tool for cryptography algorithms on Smart Card with Java.
+            <a href="https://konai.com/">Kona I</a> is an IT corporation that provides total solutions and platforms to the global Fin-tech market.
