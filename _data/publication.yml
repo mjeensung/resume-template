@@ -1,0 +1,9 @@
+# Publications
+
+- title: A Neural Named Entity Recognition and Multi-Type Normalization Tool for Biomedical Text Mining
+  authors: Donghyeon Kim, Jinhyuk Lee, Chan Ho So, Hwisang Jeon, Minbyul Jeong, Yonghwa Choi, Wonjin Yoon, <span style='font-weight:bold'>Mujeen Sung</span> and Jaewoo Kang
+  publishedto: IEEE Access, 2019
+  links: <a href="https://ieeexplore.ieee.org/document/8730332/">[Paper]</a>
+         <a href="https://github.com/dmis-lab/bern">[Code]</a>
+         <a href="https://bern.korea.ac.kr">[Demo]</a>
+  

@@ -75,6 +75,24 @@
       <!-- end Education -->
       {% endif %}
 
+      {% if site.resume_section_publication %}
+      <!-- begin Publication -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Publication</h2>
+        </header>
+
+        {% for publication in site.data.publication %}
+        <div class="resume-item" itemscope>
+          <h3 class="resume-item-title" itemprop="name">{{ publication.title }}</h3>
+          <p class="resume-item-copy">{{ publication.authors }}</p>
+          <p class="resume-item-copy">{{ publication.publishedto }}</p>
+          <span class="resume-item-copy">{{ publication.links }}</span>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Education -->
+      {% endif %}
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
@@ -179,7 +197,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Outside Interests</h2>
+          <h2>Interests</h2>
         </header>
 
         <div class="resume-item">
