@@ -197,16 +197,11 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Interests</h2>
+          <h2>Hobbies</h2>
         </header>
 
         <div class="resume-item">
-          <p class="resume-item-title" itemprop="name">{{ interest.title }}</p>
-          <ul class="resume-item-list">
-            {% for interest in site.data.interests %}
-            <li>{{ interest.description }}</li>
-            {% endfor %}
-          </ul>
+          <p class="resume-item-copy">{{ interests.description }}</p>
         </div>
 
       </section>
