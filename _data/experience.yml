@@ -8,11 +8,15 @@
 - company: GE Ultrasound Korea
   position: Software Engineer
   duration:  Jan, 2015 &mdash; Feb, 2018
-  summary:  Design User Interfaces in Ultrasound Imaging Systems with Visual C++/MFC.
-            <br><a href="https://www.gehealthcare.co.kr/"> GE Ultrasound Korea </a> is a Healthcare corporation that develops and manufactures ultrasound imaging systems to the global Healthcare market. 
+  summary:  <ul class="resume-item-list">
+            <li>Design User Interfaces in Ultrasound Imaging Systems with Visual C++/MFC.</li>
+            <li><a href="https://www.gehealthcare.co.kr/"> GE Ultrasound Korea </a> is a Healthcare corporation that develops and manufactures ultrasound imaging systems to the global Healthcare market.</li>
+            </ul> 
 
 - company: Kona I
   position: Software Team Intern
   duration: Jan, 2014 &mdash; Aug, 2014
-  summary:  Create a validation tool for cryptography algorithms on Smart Card with Java.
-            <br><a href="https://konai.com/">Kona I</a> is an IT corporation that provides total solutions and platforms to the global Fin-tech market.
+  summary:  <ul class="resume-item-list">
+            <li>Create a validation tool for cryptography algorithms on Smart Card with Java.</li>
+            <li><a href="https://konai.com/">Kona I</a> is an IT corporation that provides total solutions and platforms to the global Fin-tech market.</li>
+            </ul>
