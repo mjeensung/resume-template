@@ -1,2 +1,3 @@
 # Interests
-- description: I love <ul class="resume-item-list"><li>Reading One-Punch Man</li><li>Doing pullups</li><li>Last but not least, spending quality time with my wife</li></ul>
+- title: I love
+  description: <ul class="resume-item-list"><li>Reading One-Punch Man</li><li>Doing pullups</li><li>Last but not least, spending quality time with my wife</li></ul>

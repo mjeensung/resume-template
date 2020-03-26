@@ -202,6 +202,7 @@
 
         {% for interest in site.data.interests %}
         <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="name">{{ interest.title }}</h3>
           <p class="resume-item-copy">{{ interest.description }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
