@@ -200,9 +200,11 @@
           <h2>Hobbies</h2>
         </header>
 
+        {% for interest in site.data.interests %}
         <div class="resume-item">
-          <p class="resume-item-copy">{{ interests.description }}</p>
-        </div>
+          <p class="resume-item-copy">{{ interest.description }}</p>
+        </div><!-- end of resume-item -->
+        {% endfor %}
 
       </section>
       <!-- end Interests -->
