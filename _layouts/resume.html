@@ -201,7 +201,7 @@
         </header>
 
         <div class="resume-item">
-          <p class="resume-item-copy">{{ interest.title }}</p>
+          <p class="resume-item-title" itemprop="name">{{ interest.title }}</p>
           <ul class="resume-item-list">
             {% for interest in site.data.interests %}
             <li>{{ interest.description }}</li>
