@@ -1,9 +1,9 @@
 # Jobs
 - company: Lemon Cloud
-  position: Data Scientist
+  position: Backend Developer
   duration: Mar, 2018 &mdash; Feb, 2019
-  summary: Develop backend service and analyze web data.
-           <br><a href="https://lemoncloud.io/">Lemon Cloud</a> is a start-up company that provides E-Commerce Platforms.
+  summary: <ul class="resume-item-list"><li>Develop backend service with Node.js, Elastic Search and AWS.</li>
+           <li><a href="https://lemoncloud.io/">Lemon Cloud</a> is a start-up company that provides E-Commerce Platforms.</li></ul>
 
 - company: GE Ultrasound Korea
   position: Software Engineer
