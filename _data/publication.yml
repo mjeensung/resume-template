@@ -3,8 +3,8 @@
 - title: Biomedical Entity Representations with Synonym Marginalization
   authors: <span style='font-weight:bold'>Mujeen Sung</span>, Hwisang Jeon, Jinhyuk Lee and Jaewoo Kang
   publishedto: ACL, 2020
-  links: <a href="https://mjeensung.github.io/resume/"">[Paper]</a>
-         <a href="https://mjeensung.github.io/resume/">[Code]</a>
+  links: <a href="https://arxiv.org/abs/2005.00239"">[Paper]</a>
+         <a href="https://github.com/dmis-lab/biosyn">[Code]</a>
 
 - title: A Neural Named Entity Recognition and Multi-Type Normalization Tool for Biomedical Text Mining
   authors: Donghyeon Kim, Jinhyuk Lee, Chan Ho So, Hwisang Jeon, Minbyul Jeong, Yonghwa Choi, Wonjin Yoon, <span style='font-weight:bold'>Mujeen Sung</span> and Jaewoo Kang

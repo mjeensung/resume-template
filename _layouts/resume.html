@@ -91,7 +91,25 @@
         </div>
         {% endfor %}
       </section>
-      <!-- end Education -->
+      <!-- end Publication -->
+      {% endif %}
+
+      {% if site.resume_section_preprint %}
+      <!-- begin Preprint -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Pre-prints</h2>
+        </header>
+
+        {% for preprint in site.data.preprint %}
+        <div class="resume-item" itemscope>
+          <h4 class="resume-item-details" itemprop="description">{{ preprint.title }}</h4>
+          <p class="resume-item-copy">{{ preprint.authors }}</p>
+          <span class="resume-item-copy">{{ preprint.links }}</span>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Preprint -->
       {% endif %}
 
       {% if site.resume_section_projects %}
