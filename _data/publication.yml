@@ -23,7 +23,7 @@
   publishedto: ACL, 2020 (Long)
   links: <a href="https://arxiv.org/abs/2005.00239"">[Paper]</a>
          <a href="https://github.com/dmis-lab/biosyn">[Code]</a>
-         <a href="http://biosyn.korea.ac.kr">[Demo]</a>
+        #  <a href="http://biosyn.korea.ac.kr">[Demo]</a>
 
 - title: A Neural Named Entity Recognition and Multi-Type Normalization Tool for Biomedical Text Mining
   authors: Donghyeon Kim, Jinhyuk Lee, Chan Ho So, Hwisang Jeon, Minbyul Jeong, Yonghwa Choi, Wonjin Yoon, <span style='font-weight:bold'>Mujeen Sung</span> and Jaewoo Kang
