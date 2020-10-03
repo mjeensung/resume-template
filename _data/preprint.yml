@@ -1,11 +1,11 @@
 # Preprint
 
-- title: Answering Questions on COVID-19 in Real-Time
-  authors: Jinhyuk Lee, Sean S. Yi, Minbyul Jeong, <span style='font-weight:bold'>Mujeen Sung</span>, WonJin Yoon, Yonghwa Choi, Miyoung Ko and Jaewoo Kang
-  links: <a href="https://openreview.net/forum?id=Wssn20iNf6j"">[Paper]</a>
-         <a href="https://github.com/dmis-lab/covidAsk">[Code]</a>
-         <a href="https://covidask.korea.ac.kr/">[Demo]</a>
+# - title: Answering Questions on COVID-19 in Real-Time
+#   authors: Jinhyuk Lee, Sean S. Yi, Minbyul Jeong, <span style='font-weight:bold'>Mujeen Sung</span>, WonJin Yoon, Yonghwa Choi, Miyoung Ko and Jaewoo Kang
+#   links: <a href="https://openreview.net/forum?id=Wssn20iNf6j"">[Paper]</a>
+#          <a href="https://github.com/dmis-lab/covidAsk">[Code]</a>
+#          <a href="https://covidask.korea.ac.kr/">[Demo]</a>
 
-- title: Adversarial Subword Regularization for Robust Neural Machine Translation
-  authors: Jungsoo Park, <span style='font-weight:bold'>Mujeen Sung</span>, Jinhyuk Lee and Jaewoo Kang
-  links: <a href="https://arxiv.org/abs/2004.14109"">[Paper]</a>
+# - title: Adversarial Subword Regularization for Robust Neural Machine Translation
+#   authors: Jungsoo Park, <span style='font-weight:bold'>Mujeen Sung</span>, Jinhyuk Lee and Jaewoo Kang
+#   links: <a href="https://arxiv.org/abs/2004.14109"">[Paper]</a>
