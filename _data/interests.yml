@@ -1,9 +1,10 @@
 # Interests
 - title: I love
   description: <ul class="resume-item-list">
-    <li>Reading One-Punch Man</li>
-    <li>Doing calisthenics <a href="https://www.youtube.com/channel/UCLP2tCoDAka33v1Kseew9rA">(Youtube)</a></li>
-    <li>Last but not least, spending quality time with my wife</li>
+    <li>Spending quality time with my wife</li>
+    # <li>Reading One-Punch Man</li>
+    # <li>Doing calisthenics</li>
+    # <li>Last but not least, spending quality time with my wife</li>
     </ul> 
     <div align="center">
       <img alt="with my wife" src="images/with_my_wife.jpg" width="500px">
