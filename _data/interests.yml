@@ -2,9 +2,6 @@
 - title: I love
   description: <ul class="resume-item-list">
     <li>Spending quality time with my wife</li>
-    # <li>Reading One-Punch Man</li>
-    # <li>Doing calisthenics</li>
-    # <li>Last but not least, spending quality time with my wife</li>
     </ul> 
     <div align="center">
       <img alt="with my wife" src="images/with_my_wife.jpg" width="500px">
