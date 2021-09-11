@@ -94,6 +94,25 @@
       <!-- end Publication -->
       {% endif %}
 
+      % if site.resume_section_workshop %}
+      <!-- begin Workshop -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
+
+        {% for workshop in site.data.workshop %}
+        <div class="resume-item" itemscope>
+          <h4 class="resume-item-details" itemprop="description">{{ workshop.title }}</h4>
+          <p class="resume-item-copy">{{ workshop.authors }}</p>
+          <p class="resume-item-copy">{{ workshop.publishedto }}</p>
+          <span class="resume-item-copy">{{ workshop.links }}</span>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Workshop -->
+      {% endif %}
+
       {% if site.resume_section_preprint %}
       <!-- begin Preprint -->
       <section class="content-section">

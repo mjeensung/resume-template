@@ -1,0 +1,19 @@
+# Workshops
+
+- title: Data-centric and model-centric approaches for biomedical question answering
+  authors: Wonjin Yoon, Jaehyo Yoo, Sumin Seo, <span style='font-weight:bold'>Mujeen Sung</span>, Minbyul Jeong, Gangwoo Kim, Jaewoo Kang
+  publishedto: CLEF, 2021 Workshop 9th BioASQ
+  links: <a href="http://ceur-ws.org/Vol-2936/paper-26.pdf">[Paper]</a>
+
+- title: Answering Questions on COVID-19 in Real-Time
+  authors: Jinhyuk Lee, Sean S. Yi, Minbyul Jeong, <span style='font-weight:bold'>Mujeen Sung</span>, WonJin Yoon, Yonghwa Choi, Miyoung Ko and Jaewoo Kang
+  publishedto: EMNLP, 2020 Workshop NLP-COVID
+  links: <a href="https://openreview.net/forum?id=Wssn20iNf6j"">[Paper]</a>
+         <a href="https://github.com/dmis-lab/covidAsk">[Code]</a>
+         <a href="https://covidask.korea.ac.kr/">[Demo]</a>
+
+- title: Transferability of Natural Language Inference to Biomedical Question Answering
+  authors: Minbyul Jeong*, <span style='font-weight:bold'>Mujeen Sung*</span>, Gangwoo Kim, Donghyeon Kim, Wonjin Yoon, Jaehyo Yoo and Jaewoo Kang
+  publishedto: CLEF, 2020 Workshop 8th BioASQ
+  links: <a href="https://arxiv.org/abs/2007.00217"">[Paper]</a>
+         <a href="https://github.com/dmis-lab/bioasq8b">[Code]</a>

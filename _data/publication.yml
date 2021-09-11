@@ -5,11 +5,6 @@
   publishedto: EMNLP, 2021 (Short)
   links: <a href="#"> [TBA] </a>
 
-- title: Data-centric and model-centric approaches for biomedical question answering
-  authors: Wonjin Yoon, Jaehyo Yoo, Sumin Seo, <span style='font-weight:bold'>Mujeen Sung</span>, Minbyul Jeong, Gangwoo Kim, Jaewoo Kang
-  publishedto: CLEF, 2021 Workshop 9th BioASQ
-  links: <a href="http://ceur-ws.org/Vol-2936/paper-26.pdf">[Paper]</a>
-
 - title: Learning Dense Representations of Phrases at Scale
   authors: Jinhyuk Lee, <span style='font-weight:bold'>Mujeen Sung</span>, Jaewoo Kang, Danqi Chen
   publishedto: ACL, 2021 (Long)
@@ -17,31 +12,17 @@
          <a href="https://github.com/jhyuklee/DensePhrases">[Code]</a>
          <a href="http://densephrases.korea.ac.kr/">[Demo]</a>
 
-- title: Answering Questions on COVID-19 in Real-Time
-  authors: Jinhyuk Lee, Sean S. Yi, Minbyul Jeong, <span style='font-weight:bold'>Mujeen Sung</span>, WonJin Yoon, Yonghwa Choi, Miyoung Ko and Jaewoo Kang
-  publishedto: EMNLP, 2020 Workshop NLP-COVID
-  links: <a href="https://openreview.net/forum?id=Wssn20iNf6j"">[Paper]</a>
-         <a href="https://github.com/dmis-lab/covidAsk">[Code]</a>
-         <a href="https://covidask.korea.ac.kr/">[Demo]</a>
-
 - title: Adversarial Subword Regularization for Robust Neural Machine Translation
   authors: Jungsoo Park, <span style='font-weight:bold'>Mujeen Sung</span>, Jinhyuk Lee and Jaewoo Kang
   publishedto: Findings of EMNLP, 2020 (Short)
   links: <a href="https://arxiv.org/abs/2004.14109"">[Paper]</a>
          <a href="https://github.com/dmis-lab/AdvSR">[Code]</a>
 
-- title: Transferability of Natural Language Inference to Biomedical Question Answering
-  authors: Minbyul Jeong*, <span style='font-weight:bold'>Mujeen Sung*</span>, Gangwoo Kim, Donghyeon Kim, Wonjin Yoon, Jaehyo Yoo and Jaewoo Kang
-  publishedto: CLEF, 2020 Workshop 8th BioASQ
-  links: <a href="https://arxiv.org/abs/2007.00217"">[Paper]</a>
-         <a href="https://github.com/dmis-lab/bioasq8b">[Code]</a>
-
 - title: Biomedical Entity Representations with Synonym Marginalization
   authors: <span style='font-weight:bold'>Mujeen Sung</span>, Hwisang Jeon, Jinhyuk Lee and Jaewoo Kang
   publishedto: ACL, 2020 (Long)
   links: <a href="https://arxiv.org/abs/2005.00239"">[Paper]</a>
          <a href="https://github.com/dmis-lab/biosyn">[Code]</a>
-        #  <a href="http://biosyn.korea.ac.kr">[Demo]</a>
 
 - title: A Neural Named Entity Recognition and Multi-Type Normalization Tool for Biomedical Text Mining
   authors: Donghyeon Kim, Jinhyuk Lee, Chan Ho So, Hwisang Jeon, Minbyul Jeong, Yonghwa Choi, Wonjin Yoon, <span style='font-weight:bold'>Mujeen Sung</span> and Jaewoo Kang
