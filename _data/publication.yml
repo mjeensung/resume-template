@@ -28,6 +28,7 @@
   authors: Jungsoo Park, <span style='font-weight:bold'>Mujeen Sung</span>, Jinhyuk Lee and Jaewoo Kang
   publishedto: Findings of EMNLP, 2020 (Short)
   links: <a href="https://arxiv.org/abs/2004.14109"">[Paper]</a>
+         <a href="https://github.com/dmis-lab/AdvSR">[Code]</a>
 
 - title: Transferability of Natural Language Inference to Biomedical Question Answering
   authors: Minbyul Jeong*, <span style='font-weight:bold'>Mujeen Sung*</span>, Gangwoo Kim, Donghyeon Kim, Wonjin Yoon, Jaehyo Yoo and Jaewoo Kang
