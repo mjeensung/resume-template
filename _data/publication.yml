@@ -1,5 +1,22 @@
 # Publications
 
+- title: Can Language Models be Biomedical Knowledge Bases?
+  authors: <span style='font-weight:bold'>Mujeen Sung</span>, Jinhyuk Lee, Sean S. Yi, Minji Jeon, Sungdong Kim and Jaewoo Kang
+  publishedto: EMNLP, 2021 (Short)
+  links: [TBA]
+
+- title: KU-DMIS at BioASQ 9: Data-centric and model-centric approaches for biomedical question answering
+  authors: Wonjin Yoon, Jaehyo Yoo, Sumin Seo, <span style='font-weight:bold'>Mujeen Sung</span>, Minbyul Jeong, Gangwoo Kim, Jaewoo Kang
+  publishedto: CLEF, 2021 Workshop 8th BioASQ
+  links: <a href="http://ceur-ws.org/Vol-2936/paper-26.pdf">[Paper]</a>
+
+- title: Learning Dense Representations of Phrases at Scale
+  authors: Jinhyuk Lee, <span style='font-weight:bold'>Mujeen Sung</span>, Jaewoo Kang, Danqi Chen
+  publishedto: ACL, 2021 (Long)
+  links: <a href="https://arxiv.org/abs/2012.12624">[Paper]</a>
+         <a href="https://github.com/jhyuklee/DensePhrases">[Code]</a>
+         <a href="http://densephrases.korea.ac.kr/">[Demo]</a>
+
 - title: Answering Questions on COVID-19 in Real-Time
   authors: Jinhyuk Lee, Sean S. Yi, Minbyul Jeong, <span style='font-weight:bold'>Mujeen Sung</span>, WonJin Yoon, Yonghwa Choi, Miyoung Ko and Jaewoo Kang
   publishedto: EMNLP, 2020 Workshop NLP-COVID
@@ -9,7 +26,7 @@
 
 - title: Adversarial Subword Regularization for Robust Neural Machine Translation
   authors: Jungsoo Park, <span style='font-weight:bold'>Mujeen Sung</span>, Jinhyuk Lee and Jaewoo Kang
-  publishedto: EMNLP, 2020 (Short)
+  publishedto: Findings of EMNLP, 2020 (Short)
   links: <a href="https://arxiv.org/abs/2004.14109"">[Paper]</a>
 
 - title: Transferability of Natural Language Inference to Biomedical Question Answering

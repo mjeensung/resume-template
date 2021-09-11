@@ -26,9 +26,10 @@ display_header_contact_info:    "false"
 resume_header_intro: 
   "<p>I am a MS, PhD integrated student in the Department of Computer Science and Engineering at Korea University (<a href=\"https://dmis.korea.ac.kr\">DMIS Lab</a>) advised by Prof. 
   <a href=\"https://scholar.google.co.kr/citations?user=RaBZafQAAAAJ&amp;hl=en\">Jaewoo Kang</a>. 
-  <br>My research area lies in <span style='font-weight:bold;'>natural language processing</span> and <span style='font-weight:bold;'>deep learning</span>. 
-  <br>I am currently focusing on solving biomedical NLP tasks.</p>"
-
+  <br>My research area lies in <span style='font-weight:bold;'>natural language processing</span> and <span style='font-weight:bold;'>representation learning</span>. 
+  "
+  # <br>I am currently focus\ing on solving biomedical NLP tasks.</p>
+  
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
@@ -46,7 +47,7 @@ resume_section_skills:          true
 resume_section_recognition:   true
 # resume_section_links:         true
 # resume_section_associations:  true
-resume_section_interests:       true
+# resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
