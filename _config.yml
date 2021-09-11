@@ -26,7 +26,7 @@ display_header_contact_info:    "false"
 resume_header_intro: 
   "<p>I am a PhD student in the Department of Computer Science and Engineering at Korea University (<a href=\"https://dmis.korea.ac.kr\">DMIS Lab</a>) advised by Prof. 
   <a href=\"https://scholar.google.co.kr/citations?user=RaBZafQAAAAJ&amp;hl=en\">Jaewoo Kang</a>. 
-  <br>My research areas of interest are <span style='font-weight:bold;'>natural language processing (NLP)</span>, and <span style='font-weight:bold;'>information extraction</span>, and <span style='font-weight:bold;'>representation learning</span>. 
+  <br>My research areas of interest are <span style='font-weight:bold;'>natural language processing (NLP)</span>, <span style='font-weight:bold;'>information extraction</span>, and <span style='font-weight:bold;'>representation learning</span>. 
   "
   # <br>I am currently focus\ing on solving biomedical NLP tasks.</p>
   
