@@ -3,13 +3,14 @@
 - title: Can Language Models be Biomedical Knowledge Bases?
   authors: <span style='font-weight:bold'>Mujeen Sung</span>, Jinhyuk Lee, Sean S. Yi, Minji Jeon, Sungdong Kim and Jaewoo Kang
   publishedto: EMNLP, 2021 (Short)
-  links: <a href="#"> [TBA] </a>
+  links: <a href="https://arxiv.org/abs/2109.07154">[Paper]</a>
+         <a href="https://github.com/dmis-lab/BioLAMA">[Code]</a>
 
 - title: Learning Dense Representations of Phrases at Scale
   authors: Jinhyuk Lee, <span style='font-weight:bold'>Mujeen Sung</span>, Jaewoo Kang, Danqi Chen
   publishedto: ACL, 2021 (Long)
   links: <a href="https://arxiv.org/abs/2012.12624">[Paper]</a>
-         <a href="https://github.com/jhyuklee/DensePhrases">[Code]</a>
+         <a href="https://github.com/princeton-nlp/DensePhrases">[Code]</a>
          <a href="http://densephrases.korea.ac.kr/">[Demo]</a>
 
 - title: Adversarial Subword Regularization for Robust Neural Machine Translation
